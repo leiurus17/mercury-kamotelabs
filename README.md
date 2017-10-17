@@ -1,3 +1,3 @@
-# [Kamote Labs - Landing Page](http://www.kamotelabs.com)
+# [Mercury Astronomy App - Landing Page](https://mercury.kamotelabs.com)
 
-Here is the source code for landing page of my website. Thanks to Start Bootstrap Landing Page template!
+Here is the source code for landing page of Mercury Astronomy App. Thanks to Start Bootstrap Landing Page template!
